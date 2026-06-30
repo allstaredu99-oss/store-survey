@@ -10,8 +10,8 @@ textDirection:'ltr'
 Slide392:{
 lb:'',
 id:392,
-from:631,
-to:720,
+from:1171,
+to:1260,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -88,8 +88,8 @@ visible:'1'
 si1515:{
 name:'Paragraph_1',
 type:1268,
-from:721,
-to:810,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si1515c',
@@ -255,8 +255,8 @@ vb:[-1,-1,1,1]
 si1523:{
 name:'Paragraph_Group_1',
 type:1268,
-from:721,
-to:810,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si1523c',
@@ -427,8 +427,8 @@ vb:[-1,-1,1,1]
 si1531:{
 name:'Text_20',
 type:1250,
-from:721,
-to:810,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si1531c',
@@ -447,7 +447,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":false}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true}}',
 parentGroup:'si1523',
 retainState:false,
 immo:false,
@@ -2496,8 +2496,8 @@ vb:[-2,-2,-1,-1]
 Slide429:{
 lb:'Survey Intro',
 id:429,
-from:721,
-to:810,
+from:1261,
+to:1350,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2600,8 +2600,8 @@ visible:'1'
 si1858:{
 name:'Paragraph_2',
 type:1268,
-from:811,
-to:900,
+from:1351,
+to:1440,
 rp:0,
 rpa:0,
 mdi:'si1858c',
@@ -2767,8 +2767,8 @@ vb:[-1,-1,1,1]
 si1866:{
 name:'Paragraph_Group_2',
 type:1268,
-from:811,
-to:900,
+from:1351,
+to:1440,
 rp:0,
 rpa:0,
 mdi:'si1866c',
@@ -2935,8 +2935,8 @@ vb:[-1,-1,1,1]
 si1882:{
 name:'Text_24',
 type:1250,
-from:811,
-to:900,
+from:1351,
+to:1440,
 rp:0,
 rpa:0,
 mdi:'si1882c',
@@ -2966,7 +2966,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"3sv50","text":"How satisfied were you in the following areas? Rate from a scale of 1–10.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":73,"style":"textShadowX:0px"},{"offset":0,"length":73,"style":"fontStretch:normal"},{"offset":0,"length":73,"style":"fontType:regular"},{"offset":0,"length":73,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":73,"style":"textShadowY:4px"},{"offset":0,"length":73,"style":"lineHeight:115%"},{"offset":0,"length":73,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":73,"style":"letterSpacing:0%"},{"offset":0,"length":73,"style":"textHighlightEnable:false"},{"offset":0,"length":73,"style":"textTransform:none"},{"offset":0,"length":73,"style":"color:#020C1C"},{"offset":0,"length":73,"style":"textShadowOpacity:none"},{"offset":0,"length":73,"style":"overridden:true"},{"offset":0,"length":73,"style":"textDecoration:none"},{"offset":0,"length":73,"style":"desktop-fontSize:30"},{"offset":0,"length":73,"style":"borderBottomStyle:none"},{"offset":0,"length":73,"style":"textShadowEnable:false"},{"offset":0,"length":73,"style":"hlnk:"},{"offset":0,"length":73,"style":"fontWeight:normal"},{"offset":0,"length":73,"style":"textShadowBlur:8px"},{"offset":0,"length":73,"style":"fontFamily:Arial"},{"offset":0,"length":73,"style":"tablet-fontSize:24"},{"offset":0,"length":73,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":73,"style":"hlnkt:wp"},{"offset":0,"length":73,"style":"fontStyle:normal"},{"offset":0,"length":73,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":73,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":73,"style":"textOutlineEnable:false"},{"offset":0,"length":73,"style":"opacity:1"},{"offset":0,"length":73,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":73,"style":"hlnke:true"},{"offset":0,"length":73,"style":"defaultTextShadow:none"},{"offset":0,"length":73,"style":"backgroundColor:unset"},{"offset":0,"length":73,"style":"textShadow:none"},{"offset":0,"length":73,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"3sv50","text":"How satisfied were you in the following areas? Rate from a scale of 1–10.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":73,"style":"backgroundColor:unset"},{"offset":0,"length":73,"style":"textShadow:none"},{"offset":0,"length":73,"style":"mobile-fontSize:18"},{"offset":0,"length":73,"style":"textShadowX:0px"},{"offset":0,"length":73,"style":"fontStretch:normal"},{"offset":0,"length":73,"style":"fontType:regular"},{"offset":0,"length":73,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":73,"style":"textShadowY:4px"},{"offset":0,"length":73,"style":"lineHeight:115%"},{"offset":0,"length":73,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":73,"style":"letterSpacing:0%"},{"offset":0,"length":73,"style":"textHighlightEnable:false"},{"offset":0,"length":73,"style":"textTransform:none"},{"offset":0,"length":73,"style":"color:#020C1C"},{"offset":0,"length":73,"style":"textShadowOpacity:none"},{"offset":0,"length":73,"style":"textDecoration:none"},{"offset":0,"length":73,"style":"desktop-fontSize:30"},{"offset":0,"length":73,"style":"borderBottomStyle:none"},{"offset":0,"length":73,"style":"textShadowEnable:false"},{"offset":0,"length":73,"style":"hlnk:"},{"offset":0,"length":73,"style":"fontWeight:normal"},{"offset":0,"length":73,"style":"textShadowBlur:8px"},{"offset":0,"length":73,"style":"fontFamily:Arial"},{"offset":0,"length":73,"style":"overridden:false"},{"offset":0,"length":73,"style":"tablet-fontSize:24"},{"offset":0,"length":73,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":73,"style":"hlnkt:wp"},{"offset":0,"length":73,"style":"fontStyle:normal"},{"offset":0,"length":73,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":73,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":73,"style":"textOutlineEnable:false"},{"offset":0,"length":73,"style":"opacity:1"},{"offset":0,"length":73,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":73,"style":"hlnke:true"},{"offset":0,"length":73,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -7446,8 +7446,8 @@ vb:[-2,-2,-1,-1]
 Slide1701:{
 lb:'Questions set 1',
 id:1701,
-from:811,
-to:900,
+from:1351,
+to:1440,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7574,8 +7574,8 @@ visible:'1'
 si3315:{
 name:'Paragraph_4',
 type:1268,
-from:901,
-to:990,
+from:1441,
+to:1530,
 rp:0,
 rpa:0,
 mdi:'si3315c',
@@ -7741,8 +7741,8 @@ vb:[-1,-1,1,1]
 si3309:{
 name:'Paragraph_Group_4',
 type:1268,
-from:901,
-to:990,
+from:1441,
+to:1530,
 rp:0,
 rpa:0,
 mdi:'si3309c',
@@ -7913,8 +7913,8 @@ vb:[-1,-1,1,1]
 si3242:{
 name:'Text_36',
 type:1250,
-from:901,
-to:990,
+from:1441,
+to:1530,
 rp:0,
 rpa:0,
 mdi:'si3242c',
@@ -7933,7 +7933,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":false}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true}}',
 parentGroup:'si3309',
 retainState:false,
 immo:false,
@@ -9982,8 +9982,8 @@ vb:[-2,-2,-1,-1]
 Slide3494:{
 lb:'Thank you message 1',
 id:3494,
-from:901,
-to:990,
+from:1441,
+to:1530,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -14724,8 +14724,8 @@ visible:'1'
 si3579:{
 name:'Paragraph_5',
 type:1268,
-from:1081,
-to:1170,
+from:1531,
+to:1620,
 rp:0,
 rpa:0,
 mdi:'si3579c',
@@ -14891,8 +14891,8 @@ vb:[-1,-1,1,1]
 si3573:{
 name:'Paragraph_Group_5',
 type:1268,
-from:1081,
-to:1170,
+from:1531,
+to:1620,
 rp:0,
 rpa:0,
 mdi:'si3573c',
@@ -15063,8 +15063,8 @@ vb:[-1,-1,1,1]
 si3506:{
 name:'Text_39',
 type:1250,
-from:1081,
-to:1170,
+from:1531,
+to:1620,
 rp:0,
 rpa:0,
 mdi:'si3506c',
@@ -15083,7 +15083,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":false}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true}}',
 parentGroup:'si3573',
 retainState:false,
 immo:false,
@@ -17777,8 +17777,8 @@ vb:[-1,-1,2,2]
 Slide3758:{
 lb:'Thank you message 2',
 id:3758,
-from:1081,
-to:1170,
+from:1531,
+to:1620,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -25651,7 +25651,7 @@ resources:['dr/0596.svg','dr/0612.svg']
 }
 ];
 cp.model.audioresources=[{
-slideID:5,
+slideID:3,
 ResourceList:{
 resources:['ar/KeyClick.mp3']
 }
