@@ -812,7 +812,6 @@
 }
 ,
 "question":{
-"interactionId":"2263",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -1098,19 +1097,6 @@
 "roles":{
 "click":{
 "subtype":"button"
-}
-,
-"question":{
-"interactionId":"3245",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
 }
 ,
 "textData":{
